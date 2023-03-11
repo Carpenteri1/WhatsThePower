@@ -1,0 +1,17 @@
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\WhatsThePower.exe
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\WhatsThePower.deps.json
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\WhatsThePower.runtimeconfig.json
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\WhatsThePower.dll
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\WhatsThePower.pdb
+C:\Users\nicla\source\repos\WhatsThePower\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.csproj.AssemblyReference.cache
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.AssemblyInfoInputs.cache
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.AssemblyInfo.cs
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.csproj.CoreCompileInputs.cache
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.csproj.CopyComplete
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.dll
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\refint\WhatsThePower.dll
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.pdb
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\WhatsThePower.genruntimeconfig.cache
+C:\Users\nicla\source\repos\WhatsThePower\obj\Debug\net6.0\ref\WhatsThePower.dll

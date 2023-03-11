@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnjCo4Moi3ewnVoEBBm5eTZih4nkQ6jMog+RdQzYc+lc1IrdjLGtI8cYrpZy8zmztHzK+TI2ZyeQjYPOhpmYmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicla\\source\\repos\\WhatsThePower\\WhatsThePower.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
